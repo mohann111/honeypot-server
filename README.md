@@ -56,8 +56,6 @@ See [QUICK_START.md](docs/QUICK_START.md) for detailed instructions.
 
 ## 📚 Complete Installation (45 minutes)
 
-For comprehensive setup with detailed explanations, see [FULL_TUTORIAL.md](docs/FULL_TUTORIAL.md)
-
 **Installation phases:**
 1. VM environment preparation
 2. System package installation
@@ -105,23 +103,7 @@ For comprehensive setup with detailed explanations, see [FULL_TUTORIAL.md](docs/
 
 ---
 
-## 📖 Documentation
 
-### Getting Started
-- [QUICK_START.md](docs/QUICK_START.md) - 15-minute setup
-- [FULL_TUTORIAL.md](docs/FULL_TUTORIAL.md) - Complete guide with 13 phases
-- [QUICK_REFERENCE.md](docs/QUICK_REFERENCE.md) - Command reference
-
-### Advanced Topics
-- [ARCHITECTURE.md](docs/ARCHITECTURE.md) - Network design and security architecture
-- [ANALYSIS.md](docs/ANALYSIS.md) - Log analysis techniques
-- [VISUALIZATION.md](docs/VISUALIZATION.md) - Geolocation and attack visualization
-
-### Troubleshooting
-- [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) - Common issues and solutions
-- [DEPLOYMENT_CHECKLIST.md](docs/DEPLOYMENT_CHECKLIST.md) - Pre-deployment verification
-
----
 
 ## 🔍 Log Analysis
 
@@ -221,9 +203,6 @@ Contributions welcome! Please:
 
 ---
 
-## 📝 License
-
-MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
@@ -232,13 +211,6 @@ MIT License - See [LICENSE](LICENSE) file for details
 This honeypot should only be deployed in controlled environments with proper authorization. Ensure compliance with local laws and organizational policies before deployment.
 
 ---
-
-## 📞 Support & Contact
-
-- **Issues:** GitHub Issues
-- **Discussions:** GitHub Discussions
-- **Email:** your-email@example.com
-- **Documentation:** See [docs/](docs/) directory
 
 ---
 
@@ -270,32 +242,6 @@ This honeypot should only be deployed in controlled environments with proper aut
 - Security community for best practices and guidance
 
 ---
-
-## 🔄 Version History
-
-**v1.0.0** (November 17, 2025)
-- Initial release
-- Complete deployment guide
-- Automated setup scripts
-- Analysis tools
-- Comprehensive documentation
-
----
-
-**Last Updated:** November 17, 2025  
-**Status:** ✅ Production Ready  
-**Maintained by:** Security Team
-
----
-
-## Star this Repository! ⭐
-
-If this project helped you, please star it to show support!
-
-```
-███████████ Cowrie SSH Honeypot Deployment ███████████
-█ Real Attack Capture | Threat Intelligence | Security █
-█████████████████████████████████████████████████████████
 ```
 
 ---
