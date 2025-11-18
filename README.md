@@ -21,46 +21,6 @@ This repository contains all resources needed to deploy a production-grade SSH h
 
 ---
 
-## 📁 Repository Structure
-
-```
-cowrie-honeypot-deployment/
-│
-├── README.md                              # This file
-├── LICENSE                                # MIT License
-│
-├── docs/
-│   ├── QUICK_START.md                    # 15-minute quick start guide
-│   ├── FULL_TUTORIAL.md                  # Complete step-by-step tutorial (13 phases)
-│   ├── TROUBLESHOOTING.md                # Common issues and solutions
-│   ├── ARCHITECTURE.md                   # Network architecture documentation
-│   └── PROJECT_REPORT.md                 # Final project report
-│
-├── scripts/
-│   ├── setup.sh                          # Automated installation script
-│   ├── cowrie_analyzer.py                # Log analysis tool
-│   ├── visualize_attacks.py              # Attack visualization script
-│   ├── daily_report.py                   # Automated reporting
-│   └── cleanup.sh                        # System cleanup script
-│
-├── configs/
-│   ├── cowrie.cfg                        # Cowrie configuration template
-│   ├── fail2ban-filter.conf              # fail2ban filter for Cowrie logs
-│   ├── fail2ban-jail.local               # fail2ban jail configuration
-│   └── iptables-rules.sh                 # iptables NAT configuration
-│
-├── examples/
-│   ├── sample_logs.json                  # Example Cowrie log entries
-│   ├── attack_analysis.txt               # Analysis results example
-│   └── geolocation_map.html              # Interactive attack map template
-│
-└── resources/
-    ├── deployment_checklist.txt          # Pre-deployment checklist
-    ├── reference_commands.md             # Quick command reference
-    └── recommended_reading.md            # Additional learning resources
-```
-
----
 
 ## 🚀 Quick Start (5 minutes)
 
