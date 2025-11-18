@@ -50,8 +50,6 @@ cowrie start
 cowrie status
 ```
 
-See [QUICK_START.md](docs/QUICK_START.md) for detailed instructions.
-
 ---
 
 ## 📚 Complete Installation (45 minutes)
